@@ -77,6 +77,11 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
+    - id: "youtobe"
+      name: "油管"
+    - id: "twitter"
+      name: "推特"
+      
 
 
 
